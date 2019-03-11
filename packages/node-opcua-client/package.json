@@ -12,6 +12,7 @@
  "dependencies": {
   "async": "^2.6.2",
   "delayed": "^1.0.1",
+  "lerna": "^3.13.1",
   "node-opcua-assert": "^0.6.0",
   "node-opcua-buffer-utils": "^0.6.0",
   "node-opcua-common": "^0.6.0",
